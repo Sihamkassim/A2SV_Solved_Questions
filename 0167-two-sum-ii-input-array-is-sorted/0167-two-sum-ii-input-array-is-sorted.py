@@ -1,18 +1,15 @@
-from typing import List
-
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        left = 0
-        right = len(numbers) - 1
-
+        left , right = 0 , len(numbers)-1
+        summation = []
         while left < right:
-            summation = numbers[left] + numbers[right]
-
+            summation = numbers[left]+numbers[right]
             if summation == target:
-               
                 return [left + 1, right + 1]
-
-            elif summation > target:
-                right -= 1
-            else:
+            elif summation < target:
                 left += 1
+            else:
+                right -= 1             
+        return [numbers[left],numbers[right]] 
+            
+
