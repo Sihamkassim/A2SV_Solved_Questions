@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0969-pancake-sorting](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -45,4 +46,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0969-pancake-sorting](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0969-pancake-sorting](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0969-pancake-sorting](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
 <!---LeetCode Topics End-->
