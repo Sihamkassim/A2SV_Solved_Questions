@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0383-ransom-note](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0383-ransom-note/) | Easy |
 | [2671-frequency-tracker](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/2671-frequency-tracker/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0383-ransom-note/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0969-pancake-sorting](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0969-pancake-sorting/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
