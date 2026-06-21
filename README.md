@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0383-ransom-note](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0383-ransom-note/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Linked List
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0383-ransom-note/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sihamkassim/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
